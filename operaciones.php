@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title> operaciones basicas en php </title>
+  <meta charset="utf-8">
 </head>
 
 <body>
